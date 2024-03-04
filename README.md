@@ -12,4 +12,4 @@
 
 # Reliability 
 
-![Multistate Reliability](https://github.com/Gewles/Projects_Undergrad/files/14488029/Multistate.Reliability.Literature.Review.v2.1.pdf)
+[Multistate Reliability](https://github.com/Gewles/Projects_Undergrad/files/14488029/Multistate.Reliability.Literature.Review.v2.1.pdf)
